@@ -1,18 +1,18 @@
 # To do
 
-- [x] nodemon
+- [x] gin
+- [x] Read json file
+- [ ] Write json file
 - [ ] simple copy file
-- [ ] Memory leaks
 - [ ] Log
 - [ ] Error handling
 - [ ] Async code
 - [ ] Pointers/Ref and copy
 - [ ] Generate some fake data
-- [ ] Read json file
-- [ ] Write json file
 - [ ] copyFile file
 - [ ] Array vs Slices
 - [ ] Struct
 - [ ] Fetch github repos
-- [ ] GraphQL
+- [ ] Memory leaks
 - [ ] Query db
+- [ ] GraphQL
